@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/byte-buddy-1.12.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/failsafe-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-buffer-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-codec-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-codec-http-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-codec-socks-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-common-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-handler-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-handler-proxy-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-resolver-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-transport-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-transport-classes-epoll-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-transport-classes-kqueue-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-transport-native-epoll-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-transport-native-kqueue-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/netty-transport-native-unix-common-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-api-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-api-logs-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-context-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-exporter-logging-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-sdk-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-sdk-common-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-sdk-extension-autoconfigure-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-sdk-logs-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-sdk-metrics-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-sdk-trace-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/opentelemetry-semconv-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/lib/slf4j-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-api-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-api-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-chrome-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-chrome-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-chromium-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-chromium-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-devtools-v85-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-devtools-v85-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-devtools-v107-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-devtools-v107-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-devtools-v108-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-devtools-v108-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-devtools-v109-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-devtools-v109-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-edge-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-edge-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-firefox-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-firefox-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-http-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-http-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-ie-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-ie-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-java-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-java-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-json-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-json-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-manager-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-manager-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-remote-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-remote-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-safari-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-safari-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-support-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/OneDrive - IQVIA/Documents/Selenuim/Selenuim Lib/selenium-support-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/U1087082/Downloads/selenium-server-4.18.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
